@@ -7,7 +7,7 @@ describe "Actor" do
 
   # HINTS: look at show_spec.rb and network_spec.rb and character_spec.rb for guidance
 
-  it "has a first and last name" do
+ # it "has a first and last name" do
     # TODO set up the basic data model for actor
     actor = Actor.create(:first_name => "Emilia", :last_name => "Clarke")
 
